@@ -6,7 +6,8 @@ According to Investopedia, churn rate (also known as attrition rate or customer 
 
 After doing the analysis, here are some insights gained from the data:
 
-General Insights The churn rate for Databel is around 27%. 45% of the reasons why customers churn is related to competitors. Comparing the rate in the whole states, the churn rate in the state of California (CA) is significantly high (>60%).
+## General Insights ##  
+The churn rate for Databel is around 27%. 45% of the reasons why customers churn is related to competitors. Comparing the rate in the whole states, the churn rate in the state of California (CA) is significantly high (>60%).
 
 Churn Rate by Age Considering the age of the churners, the churn rate for senior citizens is 10% higher than the average (38.22%). By binning the age of the customers, the churn rate has in general an increasing trend through the age brackets.
 

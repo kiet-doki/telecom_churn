@@ -25,6 +25,8 @@ The analysis requirement given by Databel includes a request to analyze the inte
 ## Churn Rate by Customer Service 
 Databel also wants to improve its customer service since there have been some reported issues. Investigating customer service calls (the ones who call customer service often are also the ones who churn more than average) and payment method, it is found an average 1.47 calls per customer for those who are on a monthly contract and pay by direct debit. The churn rate for those customers are around 54%.
 
+
+## Next Steps
 Here are some business plan we might offer to Databel regarding our findings:
 
 Contacting customers who are on an international plan but have not called internationally and propose they downgrade their plan. By proposing a cheaper plan and explaining the rationale, it is expected that we can increase customer satisfaction and stop customers from churning. In this case, the previously mentioned 72% of customers without a plan can be potential clients for the new promotion of the international plan.

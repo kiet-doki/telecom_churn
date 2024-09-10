@@ -1,8 +1,8 @@
 Welcome!
 
-This project makes use of a fictional churn dataset from a Telecom provider called Databel to analyze customer churn. The dataset consists of 29 different columns and has one row per customer.
+This project uses a fictional dataset from a Telecom provider named Databel to examine customer churn. The dataset includes 29 columns, with each row representing a customer.
 
-According to Investopedia, The Churn Rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. Since it is considered easier to keep customers than getting new ones, reducing churn is a priority for many companies. The simplified formula for churn is to divide customers lost by the total number of customers. There are multiple ways to calculate churn. It varies by industry and revenue model. For example, an e-commerce platform could define a churner as customers who have not made a purchase in the last 12 months.
+According to Investopedia, churn rate (also known as attrition rate or customer churn) measures how quickly customers stop engaging with a business. Since retaining existing customers is generally easier than acquiring new ones, reducing churn is a key goal for many companies. The basic formula for calculating churn is to divide the number of lost customers by the total number of customers. Methods for calculating churn can differ depending on the industry and revenue model. For instance, an e-commerce platform might consider a customer to be churning if they haven’t made a purchase in the past 12 months.
 
 After doing the analysis, here are some insights gained from the data:
 
